@@ -1,0 +1,64 @@
+body {
+
+	font-family: Helvetica;
+}
+
+.navbar-brand h1 {
+  color: #fff;
+  font-size: 50px;
+  text-transform: uppercase;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-weight: bold;
+
+}
+
+.container {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+
+#nav-list a {
+	font-size: 30px;
+	text-transform: lowercase;
+	color: grey;
+	margin-top: 20px;
+	margin-bottom: auto;
+	text-align: center;
+
+}
+
+.navbar-toggle {
+	margin-bottom: 20px;
+}
+
+#header-nav {
+	background-color: #90DBDE;
+}
+
+
+.heading {
+	text-align: center;
+	color: #3CB371
+}
+
+
+* {
+	box-sizing: border-box;
+}
+
+section h3 {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.sectionbox {
+	text-align: center;
+	background-color: #98FB98;
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid black;
+	margin-bottom: 10px;
+}
